@@ -2,13 +2,17 @@
 
 # Hi there, I'm Mohammad Mokhmaljy 👋
 
-### Software Architect · Team Lead · Founder of [DEVMMND](https://www.devmmnd.com)
+### Founder of [DEVMMND](https://www.devmmnd.com) Company
 
-Building scalable enterprise software, shipping it reliably, and teaching the next generation of engineers.
+Building scalable enterprise software for businesses, from idea to deployment.
 
-<a href="https://www.linkedin.com/in/mohammad-mokhmaljy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/mohammad-mokhmaljy-12292a2a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://devmmnd.com"><img src="https://img.shields.io/badge/devmmnd.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="mailto:info@devmmnd.com"><img src="https://img.shields.io/badge/info@devmmnd.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/963969146843"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://t.me/Mohammad_Mokhmaljy"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://www.youtube.com/@Devmmnd"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.facebook.com/mohammad.mokhmaljy.1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
 </div>
 
@@ -19,25 +23,22 @@ Building scalable enterprise software, shipping it reliably, and teaching the ne
 I'm a senior **Software Developer** and **Project Manager** with deep expertise in the **.NET ecosystem** and **modern web technologies**. I bridge complex backend architectures and intuitive user experiences, and I lead a multi-disciplinary team to deliver them.
 
 - 🏗️ **Core expertise:** Desktop apps (WPF / MVVM), web development (React / Vite), and RESTful API architecture
-- 🎓 **Mentorship:** Leading the curriculum for Full-Stack and Backend bootcamps at DEVMMND Academy
-- 👥 **Leadership:** Managing teams of 7+ (designers, mobile and web developers) with Notion and Agile practices
+- 👥 **Leadership:** Leading a team of designers, mobile and web developers with Notion and Agile practices
 - 📐 **Delivery:** Professional documentation (SRS / SOW) and value-based project delivery
-- ⚙️ **Shipping:** CI/CD pipelines and cloud deployment, from first commit to production
 
 ---
 
-## 🏫 DEVMMND | Software & Technical Training
+## 🏢 DEVMMND | Software Company
 
-At **DEVMMND**, we don't just write code; we build digital ecosystems and empower the next generation of engineers.
+At **DEVMMND**, we don't just write code; we build digital ecosystems.
 
 | | |
 |---|---|
 | 💻 **Software Solutions** | Medical clinic management (dental), large-scale accounting systems, custom ERPs |
-| 🎓 **Technical Education** | 25+ session bootcamps: PHP API development, frontend engineering, UI/UX |
 | 💡 **Innovation** | Investing in and developing promising software ideas, from concept to deployment |
 | ☁️ **Cloud Services** | Hosting, domain management, and SEO optimization |
 
-> 🌐 **[Explore devmmnd.com](https://www.devmmnd.com)** · *Building an Integrated Tech Community*
+> 🌐 **[Explore devmmnd.com](https://www.devmmnd.com)**
 
 ---
 
@@ -62,7 +63,7 @@ At **DEVMMND**, we don't just write code; we build digital ecosystems and empowe
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-**DevOps & Deployment**
+**Deployment**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_VPS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -91,12 +92,6 @@ At **DEVMMND**, we don't just write code; we build digital ecosystems and empowe
 
 ## 📫 Get In Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-mokhmaljy/)
+- 📧 [info@devmmnd.com](mailto:info@devmmnd.com)
 - 🌐 [devmmnd.com](https://devmmnd.com)
-- 📧 [info@devmmnd.com](mailto:info@devmmnd.com) · [noorhhsas@gmail.com](mailto:noorhhsas@gmail.com)
-
-<div align="center">
-
-*"Clean code is not just a standard; it's a professional signature."*
-
-</div>
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-mokhmaljy-12292a2a6/) · 💬 [WhatsApp](https://wa.me/963969146843) · ✈️ [Telegram](https://t.me/Mohammad_Mokhmaljy) · ▶️ [YouTube](https://www.youtube.com/@Devmmnd) · 👍 [Facebook](https://www.facebook.com/mohammad.mokhmaljy.1/)

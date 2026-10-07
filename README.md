@@ -6,7 +6,7 @@
 
 Building scalable enterprise software for businesses, from idea to deployment.
 
-<a href="https://www.linkedin.com/in/mohammad-mokhmaljy-12292a2a6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/mohammad-mokhmaljy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://devmmnd.com"><img src="https://img.shields.io/badge/devmmnd.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="mailto:info@devmmnd.com"><img src="https://img.shields.io/badge/info@devmmnd.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://wa.me/963969146843"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
@@ -94,4 +94,4 @@ At **DEVMMND**, we don't just write code; we build digital ecosystems.
 
 - 📧 [info@devmmnd.com](mailto:info@devmmnd.com)
 - 🌐 [devmmnd.com](https://devmmnd.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-mokhmaljy-12292a2a6/) · 💬 [WhatsApp](https://wa.me/963969146843) · ✈️ [Telegram](https://t.me/Mohammad_Mokhmaljy) · ▶️ [YouTube](https://www.youtube.com/@Devmmnd) · 👍 [Facebook](https://www.facebook.com/mohammad.mokhmaljy.1/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-mokhmaljy/) · 💬 [WhatsApp](https://wa.me/963969146843) · ✈️ [Telegram](https://t.me/Mohammad_Mokhmaljy) · ▶️ [YouTube](https://www.youtube.com/@Devmmnd) · 👍 [Facebook](https://www.facebook.com/mohammad.mokhmaljy.1/)
